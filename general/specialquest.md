@@ -5,7 +5,7 @@ title: Misiune Specială
 # Misiune Specială
 
 
-În prezent, se desfășoară o misiune specială pe server în contextul sărbătorii de Valentine's Day.
+În prezent, se desfășoară o misiune specială pe server care consta în a construi o mașină.
 
 <div class="warning-container">
     <p class="title">Nivel necesar</p>
