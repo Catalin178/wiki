@@ -44,3 +44,32 @@ Puteți avea un singur task activ.
 
 <iframe height="315" src="https://www.youtube.com/embed/eqx2CEk8nXk?si=mA39c1t78CnJRD7C&amp;controls=0&showinfo=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+# Spring of Heart
+
+ Un eveniment care se desfășoară între 8 și 10 Martie.
+
+ ## Descriere
+ 
+Trebuie să cumperi câte 50 de flori în fiecare zi, ai locația magazinului cu flori în [/gps].
+Cu florile cumpărate, trebuie să cauți 150 de Domnișoare și să oferi fiecăreia una cu ajutorul tastei ”Y”.
+Delay-ul pentru a cumpăra florile se va reseta seara la ora 20:30 în fiecare zi a evenimentului.
+
+<div class="important-container">
+    <p class="title">Premii</p>
+    <p class="description">Vehicule:
+[Locurile 1-13] 2018 Lamborghini Huracan Performante - bhinihuracanperf18
+[Locurile 14-35] 2018 Ferrari Portofino - bhrrariportofino18 
+[Locurile 36-75] 2018 Lotus Evora GT 430 - bhotusevoragt430
+[Locurile 76-125] 2020 Alpina BMW X7 G07  - bhwx7g0722 - bhseratileventemansory</p>
+
+Puncte premium:
+[Locul 1] 1000 puncte premium
+[Locurile 126-256] 150 puncte premium
+[Locurile 251-350] 100 puncte premium
+[Ceilalti participanti] 50 puncte premium
+
+Job boost:
+[Locurile 1-25] 200% job boost 6h
+[Locurile 26-75] 150% job boost 6h
+[Locurile 76-150] 125% job boost 6h
+[Ceilalti participanti] 100% job boost 6h
