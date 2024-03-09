@@ -5,7 +5,7 @@ title: Misiune Specială
 # Misiune Specială
 
 
-În prezent, se desfășoară o misiune specială pe server în contextul sărbătorii de Valentine's Day.
+În prezent, se desfășoară o misiune specială pe server în care trebuie să strângi materiale pentru a construi o mașină.
 
 <div class="warning-container">
     <p class="title">Nivel necesar</p>
@@ -13,10 +13,11 @@ title: Misiune Specială
 </div>
 
 ## Descriere
-Există 3 amante, fiecare îți va cere un anumit lucru, și anume:<br>
-	- un inel - Se poate obține muncind la job-ul **Miner**.<br>
-	- o geantă - Aceasta poate fi achiziționată de la **Casino**.<br>
-	- un buchet cu flori - Acestea pot fi obținute în zona marcată apăsând pe tasta `Y` atunci când te afli lângă un trandafir.
+A fost readaugat quest-ul special cu Vericu în care trebuie să contruiești un vehicul.
+Quest-ul poate fi facut în 3 etape:
+	- Raketa albastră (EASY) - 4 steps
+	- Bolidu' irezistibil (MEDIUM) - 6 steps
+	- Magnetu' de blonde (HARD) - 9 steps
  
 <div class="tip-container">
     <p class="title">SFAT</p>
