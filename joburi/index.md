@@ -2,7 +2,7 @@
 title: Informații generale
 ---
 
-# Informații generale 🥸
+# Informații generale 
 Joburile îți permit să-ți construiești cariera în Los Santos. Poți să devii un muncitor harnic, extrăgând resurse sau tăind lemne, sau să te implici în activități comerciale, precum transportul de colete sau conducător de autobuz. Dacă preferi un stil de viață mai ilegal, poți să te dedici craftarea armelor sau traficului de droguri. Alternativ, ai opțiunea de a colecta deșeurile din oraș sau să transporți pizza la casele oamenilor. Alege-ți calea și construiește-ți propria poveste în acest univers virtual plin de posibilități.
 
 ## Skill
@@ -18,9 +18,9 @@ Acest sistem de skill adaugă o dimensiune dinamică experienței tale de joc, �
 ### Tipuri de Daily Job
 Acest subsistem poate avea diferite tipuri de bonusuri, precum:
 
-- Poate oferi +10% mai mulți bani job-ului zilei actuale având o șansă de 50% ca acest lucru să se întâmple.
-- Poate oferi +20% mai mulți bani job-ului zilei actuale având o șansă de 20% ca acest lucru să se întâmple.
-- Poate oferi +25% mai mulți bani job-ului zilei actuale având o șansă de 10% ca acest lucru să se întâmple.
+- Poate oferi +20% mai mulți bani job-ului zilei actuale având o șansă de 50% ca acest lucru să se întâmple.
+- Poate oferi +50% mai mulți bani job-ului zilei actuale având o șansă de 20% ca acest lucru să se întâmple.
+- Poate oferi +75% mai mulți bani job-ului zilei actuale având o șansă de 10% ca acest lucru să se întâmple.
 - Poate oferi între 20-50 B-Points având o șansă de 10% ca acest lucru să se întâmple însă fiecare job are o șansă diferită la acest tip de premiu.
 - Poate oferi între 1-3 Premium Points având o șansă de 10% ca acest lucru să se întâmple însă fiecare job are o șansă diferită la acest tip de premiu.
 

@@ -111,4 +111,38 @@ title: Denumiri vehicule modate
 | bhwm5e39                | BMW M5 (E39)                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwm5e39.png" width="256" height="128" />                                 |
 | bhertgtr22              | Mercedes GTR 22                               | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhertgtr22.png" width="256" height="128" />                                 |
 | bhotarav4pxse21         | Toyota Rav 4                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhotarav4pxse21.png" width="256" height="128" />                                 |
-| bhgustawestaw109vip     | Heli Audusta VIP                              | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhgustawestaw109vip.png" width="256" height="128" />                                 |
+| bhgustawestaw109vip     | Elicopter Audusta VIP                              | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhgustawestaw109vip.png" width="256" height="128" />                                 |
+| bhinihuracanperf18       | Lamborghini Huracan Perf 18                         | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhinihuracanperf18.png" width="256" height="128" />                   |
+| bhrrariportofino18       | Ferrari Portofino 18                           | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhrrariportofino18.png" width="256" height="128" />                   |
+| bhotusevoragt430         | Lotus Evo RAGT 430                           | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhotusevoragt430.png" width="256" height="128" />                     |
+| bhseratileventemansory   | Maserati LeVente Mansory                      | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhseratileventemansory.png" width="256" height="128" />             |
+| bhudietrongt             | Audi Etron GT                                 | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhudietrongt.png" width="256" height="128" />                        |
+| bhw760ig7024             | BMW 760i G7024                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bhw760ig7024.png" width="256" height="128" />                        |
+| bhwx7g0722               | BMW x7 G0722                                    | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bhwx7g0722.png" width="256" height="128" />                          |
+| bhertglsbrabus800        | Mercedes GLS Brabus 800                           | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bhertglsbrabus800.png" width="256" height="128" />                   |
+| bherte63sbrabus800       | Mercedes E63S Brabus 800                         | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bherte63sbrabus800.png" width="256" height="128" />                  |
+| bhacia1310               | Dacia 1310                                    | <img src="https://ragepanel.b-hood.ro/assets/images/cars//bhacia1310.png" width="256" height="128" />                          |
+| bhorschecarrera4sc911     | Porsche 911 (992) Carrera 4S Cabriolet 2020                          | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhorschecarrera4sc911.png" width="256" height="128" />                          |
+| bholarisrzrxpesp         | Paloris RZR XP Turbo EPS 2017                                 | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bholarisrzrxpesp.png" width="256" height="128" />                          |
+| bhgattiveyronvt          | Bugatti Veyron VT                                    | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhgattiveyronvt.png" width="256" height="128" />                          |
+| bhudirsq821        | Audi RSQ8                                   | <img src="https://i.imgur.com/c2Q1xmr.png" width="256" height="128" />        |
+| bhbarubrz2ts24     | Subaru RZ 2024                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhbarubrz2ts24.png" width="256" height="128" />     |
+| bhwm6e64c26        | BMW M6                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwm6e64c26.png" width="256" height="128" />        |
+| bhotaprius24       | Toyota Prius                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhotaprius24.png" width="256" height="128" />       |
+| bhatonmartvalour24 | Aston Martin Valour                                  | <img src="https://i.imgur.com/e57vKTY.png" width="256" height="128" /> |
+| bhahayzfr1m20      | Yamaha YZ                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhahayzfr1m20.png" width="256" height="128" />      |
+| bhcidairsapphire23 | Lucid Air Sapphire                                 | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhcidairsapphire23.png" width="256" height="128" /> |
+| bhseratimc2021     | Maserati MC 20                                 | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhseratimc2021.png" width="256" height="128" />     |
+| bhoblem50022       | Noble M500                                 | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhoblem50022.png" width="256" height="128" />       |
+| bhatonmartdbx70723| Aston Martin DBX                                | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhatonmartdbx70723.png" width="256" height="128" />|
+| bhuransxts22       | Acura NSX                                   | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhuransxts22.png" width="256" height="128" />      |
+| bhollsroycedawn16       | Rolls Royce Down 2016                                 | <img src="https://i.imgur.com/hDSVBT2.png" width="256" height="128" />      |
+| bhesseyvenomgtsfe16      | Hennesey Venom                                | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhesseyvenomgtsfe16.png" width="256" height="128" />      |
+| bhondaciviceg6kev95       | Honda Civic G6                               | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhondaciviceg6kev95.png" width="256" height="128" />      |
+| bhordmustangbb24       | Ford Mustang BB 24                                  | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhordmustangbb24.png" width="256" height="128" />      |
+| bhotasupragr20       | Toyota Supra 20                               | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhotasupragr20.png" width="256" height="128" />      |
+| bhw330i20       | BMW 330I 2020                               | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhw330i20.png" width="256" height="128" />      |
+| bheepgrandchtr418      | Jeep Grand Cherokee Trackhawk                              | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bheepgrandchtr418.png" width="256" height="128" />      |
+| bhodgeviper17       | Dodge Viper 2017                               | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhodgeviper17.png" width="256" height="128" />      |
+| bhlxlfanur11       | Lexus LFA Nürburgring edition                              | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhlxlfanur11.png" width="256" height="128" />      |
+| bhwx5m       | BMW X5M 2019                                | <img src="https://ragepanel.b-hood.ro/assets/images/cars/bhwx5m.png" width="256" height="128" />      |

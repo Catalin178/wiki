@@ -9,7 +9,9 @@ La noi pe server avem un sistem prin care poți să faci rost de un vehicul prin
 
 <div class="danger-container">
     <p class="title">Upgrade la vehicul</p>
-    <p class="description">Upgrade-ul costă <span style="color: blue;"> <strong>100 Premium Points</strong> </span> și are o șansă de <span style="color: red;"> <strong>70%</strong> </span> de reușită.</p>
+    <p class="description">Upgrade-ul costă <span style="color: blue;"> <strong>100 Premium Points</strong> </span> și are o șansă de <span style="color: red;"> <strong>70%</strong> </span> de reușită. Vehiculele bhwm4g83, bhwm8, bhlx570, bhgustawestaw109vip si bherts63cmatic necesita <strong>200 Premium Points</strong>.
+Teslaroadster necesita <strong>333 Premium Points</strong> si bhentleybentayst necesita <strong>250 Premium Points</strong> 
+    </p>
 </div>
 <div class="warning-container">
     <p class="title">Shard Trade</p>
@@ -113,6 +115,50 @@ In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine ini
     <tr>
         <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhgustawestaw109vip.png" alt="bhgustawestaw109vip"></td>
         <td><strong>bhgustawestaw109vip - Augusta Westland AW109 VIP</strong> - Acest shard poate fi obținut în <strong>Cupidon V2 Crate</strong></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhseratileventemansory.png" alt="bhmaseratilevante"></td>
+        <td><strong>bhmaseratilevante - Maserati Levante</strong> - Acest shard poate fi obținut completând <strong>questul special de primăvară</strong></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars//bhacia1310.png" alt="bhdacia1310"></td>
+        <td><strong>bhdacia1310 - Dacia 1310</strong> - Acest shard poate fi obținut completând <strong>questul special de primăvară</strong></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars//bherte63sbrabus800.png" alt="bhbrabus63"></td>
+        <td><strong>bherte63sbrabus800 - Brabus 63</strong> - Acest shard poate fi obținut completând <strong>questul special de primăvară</strong></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhgattiveyronvt.png" alt="bhbrabus63"></td>
+        <td><strong>bhgattiveyronvt - Bugatti Veyron VT</strong> - Acest shard poate fi obținut in <strong>Lucky or Not Crate</strong></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars//bhatonmartvalour24.png" alt="bhbrabus63"></td>
+        <td><strong>bhatonmartvalour24 - Aston Martin Valour 2024</strong> - Acest shard poate fi obținut in <strong>BattlePass</strong></td>
+    </tr>
+    <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhuscher16.png" alt="bhbrabus63"></td>
+        <td><strong>bhuscher16 - Frauscher 16</strong> - Acest shard poate fi obținut in <strong>BattlePass</strong></td>
+    </tr>
+    <tr>
+        <td><img src="https://i.imgur.com/hDSVBT2.png" alt="bhollsroycedawn163"></td>
+        <td><strong>bhollsroycedawn16 - Rolls-Royce Dawn 2016 </strong> - Acest shard poate fi obținut in <strong>SummerV2 Crate</strong></td>
+    </tr>
+       <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhlaren765lt.png" alt="bhlaren765lt"></td>
+        <td><strong>bhlaren765lt - McLaren 765LT 'halloween Edition'  16</strong> - Acest shard poate fi obținut in <strong>Activity Shop(Spring 2024 edition)</strong></td>
+    </tr>
+       <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhurusperf23.png" alt="bhurusperf23"></td>
+        <td><strong>bhurusperf23 - Lamborghini Urus 'Xmas Edition'  </strong> - Acest shard poate fi obținut in <strong>Activity Shop(Spring 2024 edition)</strong></td>
+    </tr>
+       <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhorschetaytrs.png" alt="bhorschetaytrs"></td>
+        <td><strong>bhorschetaytrs - Porsche Taycan Turbo S </strong> - Acest shard poate fi obținut in <strong>Activity Shop(Spring 2024 edition)</strong></td>
+    </tr>
+       <tr>
+        <td><img src="https://ragepanel.b-hood.ro/assets/images/cars/bhorschecarrera4sc911.png" alt="bhorschecarrera4sc911"></td>
+        <td><strong>bhorschecarrera4sc911 - Porsche 911 (992) Carrera 4S Cabriolet 2020</strong> - Acest shard poate fi obținut in <strong>Activity Shop(Spring 2024 edition)</strong></td>
     </tr>
 </table>
 

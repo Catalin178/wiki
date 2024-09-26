@@ -172,7 +172,7 @@ Folosește comanda `/phonekey` urmată de numele tastei dorite.
 Te vei putea folosi de comanda `/home`, aceasta îți va pune un checkpoint cu locația unde ai chirie/casă.
 
 ## Mă ajută level la dobândă?
-Nu, acesta îți va oferi doar un **Paycheck** mai mare ce este calculat după formula: 25.000$ înmulțit cu nivelul tău.
+Nu, acesta îți va oferi doar un **Paycheck** mai mare ce este calculat după formula: 250$ înmulțit cu nivelul tău.
 
 ## Pot cumpăra asigurare cu wanted?
 Nu.
@@ -195,7 +195,7 @@ Oferă +50L capacitate vehicul de combustibil.
 Apasă pe `F9` pentru a-l ascunde.
 
 ## Cât de mare e amenda de viteză?
-Amenda pentru încălcarea limitei de viteză este de $50.000 per Level.
+Amenda pentru încălcarea limitei de viteză este de $500 per Level.
 
 ## Pe cât timp îmi este suspendat permisul auto dacă depășesc viteza legală sau conduc pe contrasens?
 Permisiunea îți va fi suspendată pentru 2 ore, adică pentru 2 **Payday**.
@@ -222,7 +222,7 @@ Doar deținătorul frecvenței are dreptul să dea kick jucătorilor din ea.
 Chiar dacă ești deținător și ieși de pe frecvență, poți reveni introducând parola. Fiind deținător, nu îți vei pierde accesul de a scoate jucători chiar dacă ieși și intri din nou.
 
 ## Care este prețul combustibilului?
-Pretul combustibilului pentru vehiculele **normale** variază între $5,000 și $7,500 pe litru. Pentru combustibilul vehiculelor de **clan**, este 10.000$/l.
+Pretul combustibilului pentru vehiculele **normale** variază între $65 și $85 pe litru. Pentru combustibilul vehiculelor de **clan**, este 100$/l.
 
 ## Ce este litera C din dreptul combustibilului?
 Litera 'C' din dreapta categoriei 'FUEL' reprezintă consumul de combustibil al vehiculului în timp real.
@@ -239,9 +239,6 @@ Da, o vei primi. Serverul îți va oferi **gratuit** un **Vehicle Slot permanent
 ## Când a fost deschis acest/aceasta server/comunitate?
 Comunitatea **B-HOOD** a fost deschisă în data de 30.03.2018, iar serverul de **RAGE:MP** a fost deschis pe data de 28.12.2022.
 
-## Cum pot să-mi schimb skin-ul?
-Poți să-ți schimbi skin-ul prin intermediul comenzii `/skins`, apăsând pe skinul dorit și apoi pe **Select**. Această modificare te va costa suma de 250.000$. Jucătorii cu nivel sub 3 nu vor plăti această sumă.
-
 ## Care sunt metodele de plată pentru a face cumpărături?
 Metodele de plată sunt Card, PayPal și Neosurf.
 
@@ -255,16 +252,16 @@ B-Points-urile le poți folosi pentru a cumpăra crate-uri, părți de tuning pe
     <p class="description">Asigurarea îți crește în funcție de zile, prețul mașinii și km.</p>
 </div>
 
-Pretul asigurării: $25,000 * zile + $1000 * km + 0,05 la sută din valoarea vehiculului dacă este din **Dealership**.
+Pretul asigurării: $250 * zile + $10 * km + 0,05 la sută din valoarea vehiculului dacă este din **Dealership**.
 
 ## Ce nivel am nevoie pentru a plasa un anunț la CNN?
 Ai nevoie de minim nivel 5 pentru a plasa un anunț la 'CNN'.
 
 ## Care e cea mai rapidă mașină?
-Cele mai rapide vehicule sunt **bhrrarifxxkevo**, **bhlaren765lt** și **bhiniaventadorlp700** care ating viteza aproximativa de 255 km/h 'Stock' și 340 km/h cu 'Stage 4'.
+Cele mai rapida masina cu **Stage** este **bhgattiveyronvt**, aceasta atingand 355 km/h cu 'Stage 4'.
 
 ## Care este cea mai rapidă mașină stock?
-Cea mai rapidă mașină stock (fără cele de clan) este **bhordgtmk2**, care atinge viteza maximă de 255 km/h.
+Cea mai rapidă mașină stock (fără cele de clan) este **bhgattiveyronvt**, care atinge viteza maximă de 270 km/h.
 
 ## Cum deschid lista cu jucători (tab score)?
 Apasă tasta `~` pentru a deschide lista cu jucători. 
@@ -326,7 +323,7 @@ Pentru fiecare nivel de **Wanted**, vei petrece 5 minute în închisoare. Spre e
 Aceasta se va mări cu **2 minute** de fiecare dată când un polițist te sancționează pentru comportamentul din interiorul închisorii.
 
 ## Câți bani plătesc la arestarea/predarea mea?
-Vei plăti 5.000$ pentru fiecare nivel de **Wanted** deținut. Spre exemplu: Dacă ai **Wanted 2**, vei plăti 10.000$
+Vei plăti 50$ pentru fiecare nivel de **Wanted** deținut. Spre exemplu: Dacă ai **Wanted 2**, vei plăti 100$
 
 ## Când expiră numerele de la VIP și Legend? De ce nu mai am numărul de la VIP / Legend?
 Numerele VIP & Legend vor expira după **7 zile** din momentul în care ai rămas fără grad.
@@ -380,9 +377,9 @@ Pentru a rezolva această problemă apasă tasta **ESC**, intră în meniul de s
 
 ## Cât mă costă un bilet la 'vericu'??
 
-- Rainbow Normal: $10,000,000 & 100x Hidden Colors
-- Rainbow Matte: $25,000,000 & 100x Matte Colors
-- Rainbow Chrome: $50,000,000 & 100x Chrome Colors
+- Rainbow Normal: $100,000 & 100x Hidden Colors
+- Rainbow Matte: $250,000 & 100x Matte Colors
+- Rainbow Chrome: $500,000 & 100x Chrome Colors
 
 ## Câte puncte premium pot primi la Level Up?
 
@@ -426,3 +423,168 @@ Atunci când mănânci **hotdog**, **burger**, **fries** sau **pizza**, ai șans
 
 ## De ce îmi scade viața? 
 Viața ta scade deoarece serverul simulează viața reală, unde este esențial să consumi alimente pentru a supraviețui.
+## Care este suma maximă la Job Goal?
+Suma de bani necesară pentru a completa **Job Goal** este de `100.000.000`.
+## Câte B-Points primesc la Job Goal?
+Pentru fiecare `10.000$` munciți, vei primi 1 **B-Point**.
+## Câte puncte premium primesc dacă muncesc cel mai mult la Job Goal?
+Vei primi 169 de **Premium Points**.
+## Care este maximul de B-Points pe care îl pot obține din Job Goal?
+Poți obține maxim **2000** de B-Points.
+## La ce oră cade Clan Drop?
+Clanul cu drop-uri apare zilnic la 17:30, 18:30, 19:30, 20:30 și 23:30. 
+In zilele de Marti si Joi, Clan Drop-ul nu va aparea datorita programului de war.
+## La ce oră sunt Clan Wars?
+War-urile dintre clanuri sunt programate să aibă loc în fiecare zi de marți și joi, între orele 20:00 și 22:00.
+
+## Cate puncte premium consta unban?
+
+Dacă ești banat pentru <span style="color:red">7 zile</span>, tariful este de **100 Premium Points pe zi**. Dar dacă suspendarea ta se întinde pe <span style="color:red">15 zile</span>,
+prețul crește la **150 Premium Points pe zi**. Pentru cei care au primit o interdicție pentru <span style="color:red">30 de zile</span>, costul rămâne la **150 de Premium Points pe zi**. 
+Însă, pentru cei cu suspendări mai lungi pe mai mult sau <span style="color:red">60 zile</span>, prețul crește la **200 de Premium Points pe zi**.
+
+## Unde se află Aeroport LS?
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/gPIt8X3.png)</p>
+    <p>![Locatie](https://i.imgur.com/DtwW6qL.png)</p>
+</details>
+
+## Unde se află Aeroport Sandy Shoes?
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/eq9pfXm.png)</p>
+    <p>![Locatie](https://i.imgur.com/Xrf8yBf.png)</p>
+</details>
+
+## Unde se află Chilliad?
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/LzI9Kui.png)</p>
+    <p>![Locatie](https://i.imgur.com/t2n6avc.png)</p>
+</details>
+
+## Unde se află Spawn Civil?
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/gvsgedg.png)</p>
+    <p>![Locatie](https://i.imgur.com/mCfUOmr.png)</p>
+</details>
+
+## Unde se află Cable News Network?
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/jPjvBAI.png)</p>
+    <p>![Locatie](https://i.imgur.com/O2WRzix.png)</p>
+</details>
+
+## Unde se află Vespucci Beach?
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/VlTV0fz.png)</p>
+    <p>![Locatie](https://i.imgur.com/Lsp4pv3.png)</p>
+</details>
+
+## Unde se află Vinewood (Sign)?
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/w60WYC5.png)</p>
+    <p>![Locatie](https://i.imgur.com/iddxLXw.png)</p>
+</details>
+
+## Unde se află El Gordo Light House?
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/uh1p4LA.png)</p>
+    <p>![Locatie](https://i.imgur.com/oH7XkdX.png)</p>
+</details>
+
+## Unde se află Great Mine Chaparral?
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/OTzM3nu.png)</p>
+    <p>![Locatie](https://i.imgur.com/WiBjSqi.png)</p>
+</details>
+
+## Unde se află Tataviam Mountain?
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/CnioW0X.png)</p>
+    <p>![Locatie](https://i.imgur.com/BdmVW6a.png)</p>
+</details>
+
+## Unde se află Paleto Bay?
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/K3xq94a.png)</p>
+    <p>![Locatie](https://i.imgur.com/4n3XRaE.png)</p>
+</details>
+
+## Unde se află Grand Senora Desert?
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/hQLS27C.png)</p>
+    <p>![Locatie](https://i.imgur.com/OZMgwh0.png)</p>
+</details>
+
+## Unde se află Humane Labs and Research?
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/vtvMlF0.png)</p>
+    <p>![Locatie](https://i.imgur.com/LzFKxTQ.png)</p>
+</details>
+
+## Unde se află Padurarul de la Bayview Lodge?
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/CrT88uT.png)</p>
+    <p>![Locatie](https://i.imgur.com/9nmwEK6.png)</p>
+</details>
+
+## Unde se află Cassidy Creek Bridge?
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/GmvxM3Q.png)</p>
+    <p>![Locatie](https://i.imgur.com/8bUXgrk.png)</p>
+</details>
+
+## Unde se află Cea mai intalta macara?
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/mlD4poX.png)</p>
+    <p>![Locatie](https://i.imgur.com/GmvxM3Q.png)</p>
+</details>
+
+## Unde se află Turnul de antrenament al pompierilor?
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/iJQvfoq.png)</p>
+    <p>![Locatie](https://i.imgur.com/8r5EFXY.png)</p>
+</details>
+
+## Unde se află aeroportul abandonat din Grapeseed (McKenzie Field)?
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p>![Locatie](https://i.imgur.com/XuIeop6.png)</p>
+    <p>![Locatie](https://i.imgur.com/cZeFaWl.png)</p>
+</details>
+
+

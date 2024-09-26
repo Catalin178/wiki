@@ -5,9 +5,11 @@ title: Trade
 # Trade 🧑‍🔧
 Cu ajutorul acestui sistem, poți efectua schimburi de bunuri personale cu un jucător.
 
-::: info
-Ai nevoie de minim nivel 3 pentru a putea realiza o afacere.
-:::
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Ai nevoie de minim nivel 3 pentru a putea realiza o afacere.</p>
+    <p class="description">In cazul tranzactiilor cu bani, se va percepe un comision de 1%.</p>
+</div>
 
 Pentru a începe un trade cu un jucător folosește `/trade`.
 
@@ -35,10 +37,8 @@ Ce bunuri personale se pot adăuga într-un trade:
     <p class="description">Nu se poate efectua un trade în care se dau bani pe bani.</p>
 </div>
 
-::: info 
-In cazul vehiculelor, dupa ce acesta a fost adăugat în lista, apăsând pe butonul **i** din dreptul acestuia vei putea să-i vezi informațiile acestuia.
-:::
-<div class="info-container">
+<div class="warning-container">
     <p class="title"></p>
-    <p class="description">In cazul vehiculelor, dupa ce acesta a fost adăugat în lista, apăsând pe butonul <strong>i</strong> din dreptul acestuia vei putea să-i vezi informațiile acestuia.</p>
+    <p class="description">In cazul vehiculelor, dupa ce acesta a fost adăugat în lista, apăsând pe butonul <strong>i</strong> 
+        din dreptul acestuia vei putea să-i vezi informațiile acestuia.</p>
 </div>
